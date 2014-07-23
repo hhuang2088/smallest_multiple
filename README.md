@@ -1,7 +1,5 @@
-smallest_multiple
-=================
-
 <h1>Smallest Multiple<h1>
+=================
 <h2>Project Euler problem # 5</h2>
 
 <h5>The problem is as follows</h5>
